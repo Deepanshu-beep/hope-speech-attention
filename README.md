@@ -3,10 +3,11 @@ This repository contains the code for LT-EDI @ ACL 2022 paper: [Hope Speech Dete
 
 ## Citation
 ```
-@inproceedings{khanna-etal-2022-idiap,
-    title = "IDIAP_TIET@LT-EDI-ACL2022 : Hope Speech Detection in Social Media using Contextualized {BERT} with Attention Mechanism",
-    author = "Khanna, Deepanshu and Singh, Muskaan and Motlicek, Petr",
-    booktitle = "Proceedings of the Second Workshop on Language Technology for Equality, Diversity and Inclusion",
-    year = "2022"
+@article{khanna2022idiap_tiet,
+  title={IDIAP\_TIET@ LT-EDI-ACL2022: Hope Speech Detection in Social Media using Contextualized BERT with Attention Mechanism},
+  author={Khanna, Deepanshu and Singh, Muskaan and Motlicek, Petr},
+  journal={LTEDI 2022},
+  pages={321},
+  year={2022}
 }
 ```
